@@ -2,7 +2,7 @@
 ## Copyright Info
 You are free to use, manipulate and redistribute the code for personal or commercial use.
 ## Description
-A simple browser based dice game (also known as pig game) coded in HTML, CSS and JavaScript.
+A simple but beautiful browser based dice game (also known as pig game) coded in HTML, CSS and JavaScript.
 ## Installation
 Just download/clone the repository and open index.html in a web browser.
 ## Rules
