@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap" rel="stylesheet"> 
+    <link href="style.css" rel="stylesheet">
+    <title>Dice</title>
+</head>
+<body>
+    <a href="rules.html" target="blank">Rules</a>
+    <div class="wrapper">
+        <div class="player-1-panel active">
+            <div id="name-1" class="player-name">Player 1</div>
+            <div id="score-1" class="player-score">43</div>
+            <div id="current-1" class="player-current">43</div>
+        </div>
+        <div class="player-2-panel">
+            <div id="name-2" class="player-name">Player 2</div>
+            <div id="score-2" class="player-score">43</div>
+            <div id="current-2" class="player-current">43</div>
+        </div>
+        <button class="btn-new"><ion-icon name="add-circle-outline"></ion-icon> New Game</button>
+        <button class="btn-roll"><ion-icon name="reload-circle-outline"></ion-icon> Roll Dice</button>
+        <button class="btn-hold"><ion-icon name="share-outline"></ion-icon> Hold</button>
+        <img src="dice-4.png" alt="dice" id="dice">
+    </div>
+    <!--Script files-->
+    <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
