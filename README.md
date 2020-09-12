@@ -5,6 +5,8 @@ You are free to use, manipulate and redistribute the code for personal or commer
 A simple but beautiful browser based dice game (also known as pig game) coded in HTML, CSS and JavaScript.
 ## Installation
 Just download/clone the repository and open index.html in a web browser.
+## Note
+This game is not optimized and tested for mobile-based devices with small screens, make sure to open the game in a PC/MAC browser.
 ## Rules
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
